@@ -1,0 +1,28 @@
+---
+title:    | 
+          | BAN439 Detecting Fraud through Textual Analysis
+          | Final Paper
+author: "Group 2"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries-and-functions}
+library(stargazer) # Statistics output
+
+```
+
+
+# Executive summary
+
+# Introduction - day 1, day 5
+(Motivation, Data)
+(Summary)
+
+# Data - day 2, day 3
+
+# Results - day 3, day 4
